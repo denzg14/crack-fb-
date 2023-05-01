@@ -365,7 +365,7 @@ def login_lagi334():
 							print(f"\n╰─> \x1b[1;92mToken Akun Facebook Kamu > \033[93m{access_token}")
 							tokenew = open(".token.txt","w").write(access_token)
 							cook= open(".cok.txt","w").write(your_cookies)
-							print("\n╰─> \x1b33[0;36mLOGIN BERHASIL,SILAHKAN JALANKAN KEMBALI PERINTAHNYA DENGAN KETIK > \033[93mpython c.py");exit()
+							print("\n╰─> \x1b33[0;36mLOGIN BERHASIL,SILAHKAN JALANKAN KEMBALI PERINTAHNYA DENGAN KETIK > \033[93mpython tol.py");exit()
 			except Exception as e:
 				print("\x1b[1;92m[×\x1b[1;92m]\033[93m ╰─>\x1b[1;92mCOOKIE NYA MOKAD KAK !")
 				os.system('rm -rf .token.txt && rm -rf .cok.txt')
