@@ -16,7 +16,7 @@ pip2 install mechanize && pip2 install requests
 
 git clone https://github.com/denzg14/crack-fb-.git
 
-cd denzg14 
+cd crack-fb- 
 
 pip install requests && pip install mechanize
 
