@@ -1,5 +1,7 @@
 # crack-fb-
 OPREK UA BIAR GA CP MASTER
+
+
 pkg update && pkg upgrade
 
 apt update && apt upgrade
