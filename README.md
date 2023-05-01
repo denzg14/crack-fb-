@@ -12,9 +12,9 @@ pkg install python
 
 pip2 install mechanize && pip2 install requests
 
-git clone
+git clone https://github.com/denzg14/crack-fb-.git
 
-cd 
+cd toll
 
 pip install requests && pip install mechanize
 
